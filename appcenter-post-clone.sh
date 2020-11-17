@@ -10,3 +10,5 @@ echo "-------------------system_profiler SPMemoryDataType----------------------"
 system_profiler SPMemoryDataType
 echo "-------------------system_profiler SPStorageDataType----------------------"
 system_profiler SPStorageDataType
+
+exit 99
