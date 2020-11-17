@@ -4,7 +4,6 @@ Pods/
 ######################
 .DS_Store
 .DS_Store?
-*.xcworkspace
 ._*
 .Spotlight-V100
 .Trashes
