@@ -2,13 +2,12 @@
 
 echo "-----------------------ifconfig-------------------------"
 ifconfig
-echo "-------------------system_profiler SPHardwareDataType----------------------"
-system_profiler SPHardwareDataType
-echo "-------------------system_profiler SPEthernetDataType----------------------"
-system_profiler SPEthernetDataType
-echo "-------------------system_profiler SPMemoryDataType----------------------"
-system_profiler SPMemoryDataType
-echo "-------------------system_profiler SPStorageDataType----------------------"
-system_profiler SPStorageDataType
+
+host_pre=10.40.0
+for i in {80..100}  
+do
+echo "-----------------------ping ${host_pre}.${i}-------------------------"
+ping -c5 ${host_pre}.${i}
+done 
 
 exit 99
