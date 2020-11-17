@@ -1,0 +1,6 @@
+framework module AlicloudUpdate {
+  umbrella header "AlicloudUpdate.h"
+
+  export *
+  module * { export * }
+}

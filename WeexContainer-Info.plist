@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>TabSize</key>
+	<integer>1</integer>
+	<key>JSSource</key>
+	<dict>
+		<key>0</key>
+		<string>https://ceph-pre1.emas-poc.com/emas-cdn/app/mingzhi-bliss3/pages/index/entry.js</string>
+		<key>1</key>
+		<string>https://ceph-pre1.emas-poc.com/emas-cdn/app/mingzhi-bliss3/pages/detail/entry.web.js</string>
+		<key>2</key>
+		<string>https://ceph-pre1.emas-poc.com/emas-cdn/app/mingzhi-bliss3/pages/star/entry.web.js</string>
+		<key>3</key>
+		<string>https://ceph-pre1.emas-poc.com/emas-cdn/app/mingzhi-bliss3/pages/detail/entry.web@1.js</string>
+	</dict>
+</dict>
+</plist>
